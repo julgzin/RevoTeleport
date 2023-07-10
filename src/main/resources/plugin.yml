@@ -1,0 +1,5 @@
+name: RevoTeleport
+version: '${project.version}'
+main: br.com.julg.RevoTeleport
+api-version: 1.19
+authors: [ julg ]
